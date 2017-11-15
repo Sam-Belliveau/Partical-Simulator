@@ -1,0 +1,14 @@
+﻿  Group.cpp
+d:\c++\sfml\partical simulator\partical simulator\Constants.h(12): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+d:\c++\sfml\partical simulator\partical simulator\Constants.h(12): warning C4244: 'initializing': conversion from 'double' to 'const unsigned long', possible loss of data
+Group.cpp(78): warning C4244: 'argument': conversion from 'unsigned long' to 'float', possible loss of data
+Group.cpp(79): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Main.cpp
+d:\c++\sfml\partical simulator\partical simulator\Constants.h(12): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+d:\c++\sfml\partical simulator\partical simulator\Constants.h(12): warning C4244: 'initializing': conversion from 'double' to 'const unsigned long', possible loss of data
+  Generating code
+  13 of 108 functions (12.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Partical Simulator.vcxproj -> D:\C++\SFML\Partical Simulator\Release\Partical Simulator.exe
